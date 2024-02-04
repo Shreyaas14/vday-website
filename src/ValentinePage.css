@@ -1,0 +1,17 @@
+.valentinePage {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: calc(10px + 2vmin);
+    color: #FFFFFF;
+    width: 100%;
+    height: 100vh;
+    background-image: url('./roses.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Quicksand', sans-serif;
+}
+
